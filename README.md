@@ -6,4 +6,4 @@ Concurrently, I am working as an AI research intern at [Continental-NTU Corporat
 
 I am honored to receive sponsorship from the [Vingroup Scholarship Program](https://scholarships.vinuni.edu.vn/masters-ph-d-scholarship-program/) for my studies at NTU.
 
-Previously, I had 3 years of experience as a Data Analyst at [One Mount Group][One Mount Group](https://onemount.com/). I also had some [tutoring experience](http://giangson19.github.io/blog/my-tutoring-experience/), both as teacher and teaching asssistant.
+Previously, I had 3 years of experience as a Data Analyst at [One Mount Group](https://onemount.com/). I also had some [tutoring experience](http://giangson19.github.io/blog/my-tutoring-experience/) in subjects related to hard and soft skills, both as teacher and as teaching asssistant.
