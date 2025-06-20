@@ -1,8 +1,13 @@
-## Hello there 👋
+## Well hello there 👋
 
-Hi, my name is **Son** and I am a MSc Data Science student at [Nanyang Technological University](https://www.ntu.edu.sg/). I am honored to receive sponsorship from the [Vingroup Scholarship Program](https://scholarships.vinuni.edu.vn/masters-ph-d-scholarship-program/) for my studies at NTU.
+I am **Son** — a soon-to-be graduate with a Master's degree in Data Science from [Nanyang Technological University](https://www.ntu.edu.sg/), fully funded by the [Vingroup Scholarship Program](https://www.ntu.edu.sg/graduate-college/admissions/scholarships/vingroup-graduate-scholarship/).
 
+Currently, I am an AI research intern at [Continental-NTU Corporate Lab](https://www.ntu.edu.sg/continental-ntu),  supervised by [Assoc. Prof. Shang-wei Lin](https://shangweilin.github.io/) and [Dr. Yon Shin Teo](https://openreview.net/profile?id=~Yon_Shin_Teo1). My research focuses on **vision-language models for flowchart understanding**, with broader interests in *natural language processing* and *large language models*. <ins>I'm currently seeking research opportunities in these areas and plan to pursue a PhD in the near future.</ins>
 
-Concurrently, I am working as an AI research intern at [Continental-NTU Corporate Lab](https://www.ntu.edu.sg/continental-ntu). I'm supervised by [Assoc. Prof. Shang-wei Lin](https://shangweilin.github.io/) and [Dr. Yon Shin Teo](https://openreview.net/profile?id=~Yon_Shin_Teo1). My research interests include: natural language processing, large language models and vision-language models.
+Prior to my graduate studies, I was [a Data Analyst with 3 years of experience](./blog/969-days-in-the-life-of-a-data-analyst/) in the tech industry, where I worked on a wide range of business intelligence and applied machine learning tasks. 
+<!-- I have also been actively contributing to [various educational activities](./blog/becoming-the-mentor-that-i-needed-when-i-was-younger/) aimed at young professionals, both as main instructor and as teaching asssistant.  -->
 
-Previously, I spent [3 years working as a Data Analyst](https://giangson19.github.io/blog/969-days-in-the-life-of-a-data-analyst/) at One Mount Group.
+<!-- Additionally, I had a decade-long [track record of academic exellence](./cv/#honors-and-awards), including a First-class Bachelor’s degree in Finance, two undergraduate scholarships for top GPA, and multiple national and regional awards in English competitions in Vietnam. -->
+
+*Email*: *c240066 [at] e.ntu [dot] edu.sg*
+*Homepage: [giangson19.github.io](https://giangson19.github.io)*
