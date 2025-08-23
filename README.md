@@ -11,5 +11,5 @@ Get to know me: *[giangson19.github.io](https://giangson19.github.io)*
 **Fun facts**:
 - 💰 I studied Finance for my bachelor's, but switched career into data before I graduated.
 - 🗣️ _"Where are you from? You have an interesting accent."_ or _"Did you study overseas before? Your accent doesn't sound Vietnamese."_ were the most common remarks I heard where I was in Singapore.
-  - The answer to that second question was No. But I had been fully educated in English since high school (English-specialized class in high school, and full English curriculum in university).
+  - The answer to that second question was No. But I had been using English as a first language since high school (English-specialized class in high school, and full English curriculum in university).
 
