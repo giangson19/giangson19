@@ -1,15 +1,10 @@
 ## Well hello there 👋
 
-I am **Son**, data practitioner, aspiring AI researcher.
+I am **Son**.
 
-I recently graduated with a Master's degree in Data Science from [Nanyang Technological University](https://www.ntu.edu.sg/) and currently work as an AI research intern at [Continental-NTU Corporate Lab](https://www.ntu.edu.sg/continental-ntu). 
+I am a Research Assistant and Teaching Assistant at <a href="https://vinuni.edu.vn/" style="font-weight:bold">VinUniversity</a>, supervised by [Asst. Prof. Le Duy Dung](https://andrew-dungle.github.io/). My current research focuses on various aspects of **neural machine translation**, with broader interests in **natural language processing**.
 
-My research interests are: *natural language processing (NLP)* and *large language models (LLM)*.
+I recently graduated with a Master's degree in Data Science from [Nanyang Technological University](https://www.ntu.edu.sg/) and was an AI Research Intern at [Continental-NTU Corporate Lab](https://www.ntu.edu.sg/continental-ntu). 
 
 Get to know me: *[giangson19.github.io](https://giangson19.github.io)*
-
-**Fun facts**:
-- 💰 I studied Finance for my bachelor's, but switched career into data before I graduated.
-- 🗣️ _"Where are you from? You have an interesting accent."_ or _"Did you study overseas before? Your accent doesn't sound Vietnamese."_ were the most common remarks I heard where I was in Singapore.
-  - The answer to that second question was No. But I had been using English as a first language since high school (English-specialized class in high school, and full English curriculum in university).
 
